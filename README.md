@@ -1,5 +1,7 @@
 # typescript-with-standard-template
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 > A minimal template for building basic applications with TypeScript and JavaScript Standard Style
 
 ## Getting started
