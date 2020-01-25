@@ -17,9 +17,6 @@ $ npm i
 ## Linting
 
 ```bash
-# To check syntax, find problems, and enforce code style
+# Check types and find problems
 $ npm run lint
-
-# Automatically fix problems
-$ npm run lint:fix
 ```
