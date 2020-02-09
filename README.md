@@ -22,5 +22,3 @@ $ npm i
 # Check types and find problems
 $ npm run lint
 ```
-
-Also, linters are automatically run on staged files before committing.
