@@ -1,3 +1,4 @@
+# Because .*.js files are ignored by default
 !.*.js
 
 # tsc --outDir
